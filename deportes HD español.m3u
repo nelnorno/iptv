@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,AyM Sports (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4750.ts
+#EXTINF:-1,ESPN (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4744.ts
+#EXTINF:-1,ESPN 2 (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4749.ts
+#EXTINF:-1,ESPN 3 (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4745.ts
+#EXTINF:-1,F1 Latin America (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4743.ts
+#EXTINF:-1,Fox Sports (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4746.ts
+#EXTINF:-1,Fox Sports 2 (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4747.ts
+#EXTINF:-1,PX Sports Xtremes (HD)
+http://149.202.202.127:8000/live/AndresPerez/AndresPerez/4748.ts
